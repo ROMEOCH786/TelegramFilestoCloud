@@ -1,4 +1,5 @@
 from bot.filetocloud import CloudBot, filters
+from pyrogram.types import Message
 from bot import START, SOURCE
 
 
